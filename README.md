@@ -1,3 +1,24 @@
+## sicktoolbox_wrapper (jade) - 2.5.3-0
+
+The packages in the `sicktoolbox_wrapper` repository were released into the `jade` distro by running `/usr/bin/bloom-release sicktoolbox_wrapper --track jade --rosdistro jade --new-track` on `Thu, 23 Apr 2015 01:05:07 -0000`
+
+The `sicktoolbox_wrapper` package was released.
+
+Version of package(s) in repository `sicktoolbox_wrapper`:
+- upstream repository: https://github.com/ros-drivers/sicktoolbox_wrapper.git
+- release repository: unknown
+- rosdistro version: `null`
+- old version: `null`
+- new version: `2.5.3-0`
+
+Versions of tools used:
+- bloom version: `0.5.19`
+- catkin_pkg version: `0.2.6`
+- rosdep version: `0.11.0`
+- rosdistro version: `0.4.0`
+- vcstools version: `0.1.35`
+
+
 ## sicktoolbox_wrapper (indigo) - 2.5.3-1
 
 The packages in the `sicktoolbox_wrapper` repository were released into the `indigo` distro by running `/usr/bin/bloom-release sicktoolbox_wrapper -t indigo -r indigo` on `Mon, 16 Jun 2014 22:29:39 -0000`
