@@ -1,0 +1,12 @@
+Source: ros-jade-sicktoolbox-wrapper
+Section: misc
+Priority: extra
+Maintainer: Chad Rockey <chadrockey@gmail.com>
+Build-Depends: debhelper (>= 9.0.0), ros-jade-catkin, ros-jade-diagnostic-updater, ros-jade-rosconsole, ros-jade-roscpp, ros-jade-sensor-msgs, ros-jade-sicktoolbox
+Homepage: http://ros.org/wiki/sicktoolbox_wrapper
+Standards-Version: 3.9.2
+
+Package: ros-jade-sicktoolbox-wrapper
+Architecture: any
+Depends: ${shlibs:Depends}, ${misc:Depends}, ros-jade-diagnostic-updater, ros-jade-rosconsole, ros-jade-roscpp, ros-jade-sensor-msgs, ros-jade-sicktoolbox
+Description: sicktoolbox_wrapper is a ROS wrapper for the outstanding sicktoolbox library for interfacing with the SICK LMS2xx lasers.
